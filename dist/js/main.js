@@ -4974,7 +4974,7 @@ var objectFitImages = (function () {
       b in n || (b = 'src'),
       (m['image/jpeg'] = !0),
       (m['image/gif'] = !0),
-      (m['image/png'] = !0),
+      (m['image/webp'] = !0),
       (m['image/svg+xml'] = o.implementation.hasFeature(
         'http://www.w3.org/TR/SVG11/feature#Image',
         '1.1'

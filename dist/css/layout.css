@@ -2695,7 +2695,7 @@ template {
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(owl.video.play.png) no-repeat;
+    background: url(owl.video.play.webp) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -2766,7 +2766,7 @@ template {
 }
 
 .pswp__button, .pswp__button--arrow--left:before, .pswp__button--arrow--right:before {
-    background: url(../img/default-skin.png) 0 0 no-repeat;
+    background: url(../img/default-skin.webp) 0 0 no-repeat;
     background-size: 264px 88px;
     width: 44px;
     height: 44px
